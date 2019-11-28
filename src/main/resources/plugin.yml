@@ -1,0 +1,3 @@
+name: Tucaessentials
+version: ${project.version}
+main: com.tucaessentials.Tucaessentials
