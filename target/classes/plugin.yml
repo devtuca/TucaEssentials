@@ -1,0 +1,5 @@
+name: Tucaessentials
+version: 1.0-SNAPSHOT
+main: com.tucaessentials.TucaEssentials
+commands:
+  clear:
