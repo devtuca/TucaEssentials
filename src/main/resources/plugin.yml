@@ -1,3 +1,5 @@
 name: Tucaessentials
 version: ${project.version}
-main: com.tucaessentials.Tucaessentials
+main: com.tucaessentials.TucaEssentials
+commands:
+  clear:
